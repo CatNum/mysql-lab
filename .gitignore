@@ -21,3 +21,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# JetBrains IDE 配置
+.idea/
+
+# Python 本地运行环境与缓存
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
